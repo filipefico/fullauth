@@ -17,6 +17,10 @@ public_html/hot
 
 storage/*.key
 .env
+.editorconfig
+.gitattributes
+.idea/
+.styleci.yml
 Homestead.yaml
 Homestead.json
 /.vagrant
